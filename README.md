@@ -9,6 +9,7 @@ Writed code by deepseek
 输入一个 WLAN 名称并保存，程序在后台持续扫描：**一旦发现该网络且当前没连它，就自动断开现有无线连接并连上去**。目标名称会保存到配置文件，下次打开自动带出。
 
 注意！！！：不要点击“保存并开始监控”！它会持续创建进程，导致window防病毒程序持续运作，CPU占用会飙升导致极度卡顿。
+
 Note!!!: Do not click "保存并开始监控"! It will continuously create processes, causing your antivirus software to run constantly, leading to a sharp increase in CPU usage and severe system lag.
 
 ---
